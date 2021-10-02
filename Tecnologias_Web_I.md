@@ -9,7 +9,7 @@
 - Aula 3 - CSS
 - Aula 4 - CSS
 - [Aula 5 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271803/ARDC_JS_Parte_1.pdf)
-- [Aula 6 - JS]((https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271801/ARDC_JS_Parte_2.pdf)
+- [Aula 6 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271801/ARDC_JS_Parte_2.pdf)
 
 # Exercícios
 
