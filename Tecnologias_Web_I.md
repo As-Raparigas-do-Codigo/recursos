@@ -6,8 +6,7 @@
 
 - [Aula 1 - HTML](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271371/html-1.pdf)
 - Aula 2 - HTML
-- [Aula 3 - CSS](https://docs.google.com/presentation/d/1paJD5q-A8bnqK-odwbEEPK2Px_RgBLoO19drGrOgeHk/edit#slide=id.p)
-- Aula 4 - CSS
+- [Aula 3 e 4 - CSS](https://docs.google.com/presentation/d/1paJD5q-A8bnqK-odwbEEPK2Px_RgBLoO19drGrOgeHk/edit#slide=id.p)
 - [Aula 5 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271803/ARDC_JS_Parte_1.pdf)
 - [Aula 6 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271801/ARDC_JS_Parte_2.pdf)
 
@@ -16,8 +15,9 @@
 - [Aula 1 - HTML](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271373/html_15_Maio_ex.zip)
 - [Aula 1 - Exercícios Extra](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271375/biblioteca.zip)
 - Aula 2 - HTML
-- Aula 3 - CSS
-- Aula 4 - CSS
+- **Aula 3 e 4 - CSS**
+  - [Repositório base](https://github.com/MonicaFidalgo/my-first-portfolio-final)
+  - [Objectivo](https://monicafidalgo.github.io/my-first-portfolio-final/)
 - [Aula 5 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271805/js_parte_1_exercicios.zip)
 - Aula 6 - JS
 
