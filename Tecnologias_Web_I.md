@@ -15,7 +15,7 @@
 - [Aula 1 - HTML](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271373/html_15_Maio_ex.zip)
 - [Aula 1 - Exercícios Extra](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271375/biblioteca.zip)
 - Aula 2 - HTML
-- **Aula 3 e 4 - CSS**
+- Aula 3 e 4 - CSS
   - [Repositório base](https://github.com/MonicaFidalgo/my-first-portfolio-final)
   - [Objectivo](https://monicafidalgo.github.io/my-first-portfolio-final/)
 - [Aula 5 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271805/js_parte_1_exercicios.zip)
