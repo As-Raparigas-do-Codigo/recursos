@@ -23,7 +23,6 @@
 
 # HTML
 
-
 # CSS
 
 ### Exercícios
@@ -32,5 +31,8 @@
 - [CSS Sundae](https://www.codeanalogies.com/csssundae/) - Posicionamento em CSS para iniciantes
 - [CSS Battle](https://cssbattle.dev/) - Exercícios avançados
 
-
 # JavaScript
+
+# Git
+
+- [Como publicar site usando Github Pages](https://raparigas-do-codigo.mn.co/posts/tecnologias-web-workshop-de-css-github-pages)
