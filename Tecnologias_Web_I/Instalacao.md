@@ -1,5 +1,4 @@
 # Instalação de Software 
-Guia de instalação do software necessário para o curso de "Tecnologias Web"
 
 ## Google Chrome
 
