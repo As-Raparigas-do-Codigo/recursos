@@ -1,6 +1,6 @@
 # Preparação
 
-- [Instalação de Software](Instalacao.md)
+- [Instalação de Software](https://raparigas-do-codigo.mn.co/posts/instalacao-de-software-google-chrome-sublime-text-14032227)
 
 # PDFs das Aulas
 
