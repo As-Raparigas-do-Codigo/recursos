@@ -36,4 +36,4 @@
 # Git
 
 - [Como fazer fork de um projeto](./Tecnologias_Web_I/Como_fazer_fork.md)
-- [Como publicar um site usando Github Pages](https://raparigas-do-codigo.mn.co/posts/tecnologias-web-workshop-de-css-github-pages)
+- [Como publicar um site usando Github Pages](./Tecnologias_Web_I/Como_publicar_um_site_usando_Github_Pages.md)
