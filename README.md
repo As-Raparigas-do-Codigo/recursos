@@ -3,15 +3,15 @@ Lista de recursos para as alunas das "Raparigas do Código"
 
 ## Web
 
-- [Web I](./Web_I.md)
-- Web II
+- [Tecnologias Web I](./Tecnologias_Web_I.md)
+- Tecnologias Web II
 
 ## Python
 
-- Python - Introdução
-- Python para Data Science
+[TBD]
 
 ## Git
 
-- Introdução ao git e ao Github
-- Construir portfolio com Github
+[TBD]
+
+## Workshops
