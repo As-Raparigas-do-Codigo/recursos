@@ -6,7 +6,7 @@
 
 - [Aula 1 - HTML](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271371/html-1.pdf)
 - Aula 2 - HTML
-- Aula 3 - CSS
+- [Aula 3 - CSS](https://docs.google.com/presentation/d/1paJD5q-A8bnqK-odwbEEPK2Px_RgBLoO19drGrOgeHk/edit#slide=id.p)
 - Aula 4 - CSS
 - [Aula 5 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271803/ARDC_JS_Parte_1.pdf)
 - [Aula 6 - JS](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271801/ARDC_JS_Parte_2.pdf)
@@ -35,4 +35,5 @@
 
 # Git
 
+- [Como fazer fork de um projeto](./Tecnologias_Web_I/Como_fazer_fork.md)
 - [Como publicar site usando Github Pages](https://raparigas-do-codigo.mn.co/posts/tecnologias-web-workshop-de-css-github-pages)
