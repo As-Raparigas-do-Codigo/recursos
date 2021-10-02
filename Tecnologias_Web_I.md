@@ -18,7 +18,7 @@
 
 ### Exercícios
 
-- [CSS Diner](https://flukeout.github.io/) - S
+- [CSS Diner](https://flukeout.github.io/) - Selectores em CSS para iniciantes
 - [CSS Sundae](https://www.codeanalogies.com/csssundae/) - Posicionamento em CSS para iniciantes
 - [CSS Battle](https://cssbattle.dev/) - Exercícios avançados
 
