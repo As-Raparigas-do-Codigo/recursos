@@ -9,7 +9,7 @@ Lista de recursos para as alunas das "Raparigas do Código".
 
 [TBD]
 
-# Git
+## Git
 
 - [Introdução ao Git e ao Github](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271881/WorkshopGit_e2.pdf)
 - [Portfolio com GitHub](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7272986/Portfolio.com.GitHub.Slides.pptx)
@@ -19,3 +19,8 @@ Lista de recursos para as alunas das "Raparigas do Código".
 ## Workshops
 
 - [Workshop LinkedIn](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7272985/Workshop.LinkedIn.Slides.pptx)
+
+## Outros sítios onde podes aprender a programar
+
+- [CodeAcademy](https://www.codecademy.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
