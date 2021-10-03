@@ -32,9 +32,3 @@
 - [CSS Battle](https://cssbattle.dev/) - Exercícios avançados
 
 # JavaScript
-
-- [Exercism](https://exercism.org/tracks/javascript)
-- [JSBattle](https://jsbattle.net)
-- [Edabit](https://edabit.com/challenges)
-- [CoderByte](https://coderbyte.com/challenges)
-- [HackEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
