@@ -31,11 +31,11 @@ Se todos cumprirmos este código, esta será uma comunidade onde vamos crescer, 
 
 Podes colocar no canal do teu workshop (na tua edição, ou no geral), e qualquer um/a de nós e das colegas pode ajudar! Tens sempre o teu mentor ou mentora "pessoal", podes colocar no canal da tua mentoria! Ou então, usa o Github! No repositório do teu workshop vai a "Discussions": 
 
-![navegador no repositorio de python](/assets/navegador_repositorio.png)
+![navegador no repositorio de python](assets/navegador_repositorio.png)
 
 E vais encontrar um canal de dúvidas!
 
-![sidebar de duvidas na tab de discussoes](/assets/duvidas_sidebar.png)
+![sidebar de duvidas na tab de discussoes](assets/duvidas_sidebar.png)
 
 et voilá! 😁
 
