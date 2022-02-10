@@ -7,7 +7,7 @@ Lista de recursos para as alunas das "Raparigas do Código".
 - [Tecnologias Web I](./Tecnologias_Web_I.md)
 - [Como HTTPS funciona... numa história em quadrinhos!](https://howhttps.works/pt-br/)
 
-## Python
+## Python 🐍
 
 - [Python® Notes for Professionals book](https://goalkicker.com/PythonBook/) (Livro)
 - ...
@@ -27,14 +27,14 @@ Aqui podes encontrar slides dos nossos workshops:
 - [Introdução ao Git e ao Github](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271881/WorkshopGit_e2.pdf)
 - [Portfolio com GitHub](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7287767/Portfolio.com.GitHub.Slides.pptx.pdf)
 
-## Websites 
+## Websites 👩‍💻
 
 Estes websites são interativos onde podes aprender a programar:
 
 - [CodeAcademy](https://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 
-## Aprender a programar com jogos
+## Aprender a programar com jogos 👾
 
 - http://www.crunchzilla.com/ - O Crunchzilla tem vários tutoriais interactivos em que podemos brincar com código, experimentar, construir com animações e jogos simples
 
@@ -53,3 +53,15 @@ Estes websites são interativos onde podes aprender a programar:
         * ...
 
         </details>
+
+## Podcasts 🎧
+
+Aqui podes encontrar links para podcasts recomendados pela comunidade, de variados tópicos. Esta pode ser uma forma para te inspirares e aprender sobre outras áreas de tecnologia.
+
+- [CodeNewbie podcast](https://www.codenewbie.org/podcast) (EN)
+- [Ladybug podcast](https://www.ladybug.dev/) (EN)
+- [Soft Skills Engineering](https://softskills.audio/) (EN)
+- [Real Python](https://realpython.com/podcasts/rpp/) (EN)
+- ...
+
+Nota: EN = inglês / PT = português
