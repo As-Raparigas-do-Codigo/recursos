@@ -3,7 +3,7 @@
 Lista de recursos para as alunas das "Raparigas do Código", recomendados pela comunidade de mentores e alunas!
 
 Para além dos recursos nesta pagina, também podes ver:
-- [Ferramentas](ferramentas.md) que podes
+- [Ferramentas](ferramentas.md) que podes vir a precisar como programadora
 - [Código de Conduta no Discord](codigo_de_conduta_discord.md)
 
 ## 🤗 Os nossos Workshops
