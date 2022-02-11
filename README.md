@@ -2,6 +2,18 @@
 
 Lista de recursos para as alunas das "Raparigas do Código", recomendados pela comunidade de mentores e alunas!
 
+Para além dos recursos nesta pagina, também podes ver:
+- [Ferramentas](ferramentas.md) que podes
+- [Código de Conduta no Discord](codigo_de_conduta_discord.md)
+
+## 🤗 Os nossos Workshops
+
+Aqui podes encontrar slides dos nossos workshops: 
+- [Workshop LinkedIn](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7287768/Workshop.LinkedIn.Slides.pptx.pdf)
+- [Introdução ao Git e ao Github](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271881/WorkshopGit_e2.pdf)
+- [Portfolio com GitHub](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7287767/Portfolio.com.GitHub.Slides.pptx.pdf)
+- ...
+
 ## 🌐 Web
 
 - [Tecnologias Web I](./Tecnologias_Web_I.md)
@@ -20,12 +32,6 @@ Artigos da comunidade:
 - [Como fazer fork de um projeto](./Git/Como_fazer_fork.md)
 - [Como publicar um site usando Github Pages](./Git/Como_publicar_um_site_usando_Github_Pages.md)
 
-## 🤗 Os nossos Workshops
-
-Aqui podes encontrar slides dos nossos workshops: 
-- [Workshop LinkedIn](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7287768/Workshop.LinkedIn.Slides.pptx.pdf)
-- [Introdução ao Git e ao Github](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7271881/WorkshopGit_e2.pdf)
-- [Portfolio com GitHub](https://github.com/As-Raparigas-do-Codigo/Recursos/files/7287767/Portfolio.com.GitHub.Slides.pptx.pdf)
 
 ## 👩‍💻 Websites
 
