@@ -71,4 +71,5 @@ Nota: EN = inglês / PT = português
 Outra forma de aprender é através de videos, aqui podes encontrar canais no Youtube recomendados pela comunidade.
 
 - [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) - tem videos de vários topicos: python, javascript, data sciente, blockchain, algoritmos e estruturas de dados, etc
-- ...
+- [Women Who Code](https://www.youtube.com/c/WomenWhoCodeGlobal) - tem várias apresentações das meetups de sub communidades de [Women Who Code](https://www.womenwhocode.com/), sobre carreira, python, cloud, web, etc.
+
