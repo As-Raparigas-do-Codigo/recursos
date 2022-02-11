@@ -1,6 +1,6 @@
 # Recursos 📚
 
-Lista de recursos para as alunas das "Raparigas do Código".
+Lista de recursos para as alunas das "Raparigas do Código", recomendados pela comunidade de mentores e alunas!
 
 ## Web
 
@@ -65,3 +65,10 @@ Aqui podes encontrar links para podcasts recomendados pela comunidade, de variad
 - ...
 
 Nota: EN = inglês / PT = português
+
+## Canais Youtube 📺
+
+Outra forma de aprender é através de videos, aqui podes encontrar canais no Youtube recomendados pela comunidade.
+
+- [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) - tem videos de vários topicos: python, javascript, data sciente, blockchain, algoritmos e estruturas de dados, etc
+- ...
