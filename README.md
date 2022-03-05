@@ -10,7 +10,7 @@ Para além dos recursos nesta pagina, também podes ver:
 - [Os nossos Workshops](#-os-nossos-workshops)
 - [Web](#-web)
 - [Python](#-python)
-- [Git](#-git)
+- [Git](#%EF%B8%8F-git)
 - [Websites](#-websites)
 - [Podcasts](#-podcasts)
 - [Canais Youtube](#-canais-youtube)
