@@ -6,6 +6,17 @@ Para além dos recursos nesta pagina, também podes ver:
 - [Ferramentas](ferramentas.md) que podes vir a precisar como programadora
 - [Código de Conduta no Discord](codigo_de_conduta_discord.md)
 
+**Índice de conteúdos:**
+- [Os nossos Workshops](#-os-nossos-workshops)
+- [Web](#-web)
+- [Python](#-python)
+- [Git](#-git)
+- [Websites](#-websites)
+- [Podcasts](#-podcasts)
+- [Canais Youtube](#-canais-youtube)
+- [Comunidades tech](#%EF%B8%8F-comunidades)
+
+
 ## 🤗 Os nossos Workshops
 
 Aqui podes encontrar slides dos nossos workshops: 
@@ -44,6 +55,20 @@ Estes websites são interativos onde podes aprender a programar:
 - [crunchzilla](http://www.crunchzilla.com/) - O Crunchzilla tem vários tutoriais interactivos em que podemos brincar com código, experimentar, construir com animações e jogos simples
 - [CodinGame](https://www.codingame.com/)
 
+### 🎲 Diversos
+
+- [TheInsaneApp](https://www.theinsaneapp.com/)
+    - <details>
+        <summary>Clica para saber mais</summary>
+
+        Tem um conjunto absurdo de:
+        * **Livros (online e para download)** sobre Programação, Data Science, Machine Learning;
+        * **Projetos com implementação** em tutoriais e com código aberto! 😮
+        * **Cheat Sheets** de comandos e operações comuns em Python e R (maioritariamente relacionados com **machine learning**);
+        * **Alguns cursos de programação** dados pelo MIT, IBM, Google, Microsoft, Apple...
+        * ...
+
+        </details>
 
 ## 🎧 Podcasts
 
@@ -65,21 +90,6 @@ Outra forma de aprender é através de videos, aqui podes encontrar canais no Yo
 - [Women Who Code](https://www.youtube.com/c/WomenWhoCodeGlobal) - tem várias apresentações das meetups de sub communidades de [Women Who Code](https://www.womenwhocode.com/), sobre carreira, python, cloud, web, etc.
 - [AndroidTrainingProgram Portugal](https://www.youtube.com/c/AndroidTrainingProgram) - tem aulas sobre Android em Português :)
 - [CharliMarieTV](https://www.youtube.com/c/charlimarieTV) - Charlie é uma web & graphic designer que publica videos sobre a area.
-
-## 🎲 Diversos
-
-- [TheInsaneApp](https://www.theinsaneapp.com/)
-    - <details>
-        <summary>Clica para saber mais</summary>
-
-        Tem um conjunto absurdo de:
-        * **Livros (online e para download)** sobre Programação, Data Science, Machine Learning;
-        * **Projetos com implementação** em tutoriais e com código aberto! 😮
-        * **Cheat Sheets** de comandos e operações comuns em Python e R (maioritariamente relacionados com **machine learning**);
-        * **Alguns cursos de programação** dados pelo MIT, IBM, Google, Microsoft, Apple...
-        * ...
-
-        </details>
 
 ## 🙋‍♀️ Comunidades
 
